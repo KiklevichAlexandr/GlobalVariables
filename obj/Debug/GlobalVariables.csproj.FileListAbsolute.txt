@@ -1,0 +1,9 @@
+c:\users\sasha\documents\visual studio 2015\Projects\GlobalVariables\GlobalVariables\bin\Debug\GlobalVariables.exe.config
+C:\Users\Sasha\documents\visual studio 2015\Projects\GlobalVariables\GlobalVariables\bin\Debug\GlobalVariables.exe
+C:\Users\Sasha\documents\visual studio 2015\Projects\GlobalVariables\GlobalVariables\bin\Debug\GlobalVariables.pdb
+C:\Users\Sasha\documents\visual studio 2015\Projects\GlobalVariables\GlobalVariables\obj\Debug\GlobalVariables.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\documents\visual studio 2015\Projects\GlobalVariables\GlobalVariables\obj\Debug\GlobalVariables.Form1.resources
+C:\Users\Sasha\documents\visual studio 2015\Projects\GlobalVariables\GlobalVariables\obj\Debug\GlobalVariables.Properties.Resources.resources
+C:\Users\Sasha\documents\visual studio 2015\Projects\GlobalVariables\GlobalVariables\obj\Debug\GlobalVariables.csproj.GenerateResource.Cache
+C:\Users\Sasha\documents\visual studio 2015\Projects\GlobalVariables\GlobalVariables\obj\Debug\GlobalVariables.exe
+C:\Users\Sasha\documents\visual studio 2015\Projects\GlobalVariables\GlobalVariables\obj\Debug\GlobalVariables.pdb
